@@ -2,10 +2,7 @@
 
 ![Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsw1991abc&theme=tokyonight&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-![Wizard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lsw1991abc)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
 
 <!--
