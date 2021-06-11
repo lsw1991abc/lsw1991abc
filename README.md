@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsw1991abc&theme=tokyonight&show_icons=true)
+
+
 <!--
 **lsw1991abc/lsw1991abc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
