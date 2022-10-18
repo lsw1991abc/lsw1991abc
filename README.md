@@ -2,8 +2,12 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=lsw1991abc&theme=tokyonight&show_icons=true&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=lsw1991abc&theme=tokyonight&show_icons=true&hide_border=true&langs_count=5" /></td>
+    <td style="margin: 0; padding: 0">
+      <img src="https://github-readme-stats.vercel.app/api?username=lsw1991abc&theme=tokyonight&show_icons=true&hide_border=true" />
+    </td>
+    <td style="margin: 0; padding: 0">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lsw1991abc&theme=tokyonight&show_icons=true&hide_border=true&langs_count=5" />
+    </td>
   </tr>
 </table>
 
